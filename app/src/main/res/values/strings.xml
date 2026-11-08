@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bitácora de campo</string>
+    <string name="titulo_lista">Registros</string>
+    <string name="titulo_detalle">Detalle</string>
+    <string name="titulo_nuevo">Nuevo registro</string>
+    <string name="titulo_editar">Editar registro</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="btn_foto">Tomar foto</string>
+    <string name="btn_voz">Dictar descripción</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_reintentar">Reintentar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="lista_vacia">Aún no hay registros. Toca + para crear el primero.</string>
+    <string name="confirmar_eliminar_titulo">Eliminar registro</string>
+    <string name="confirmar_eliminar_msg">¿Seguro que quieres eliminar este registro? Esta acción no se puede deshacer.</string>
+    <string name="voz_no_disponible">El reconocimiento de voz no está disponible en este dispositivo.</string>
+    <string name="camara_no_disponible">No se pudo abrir la cámara.</string>
+    <string name="voz_prompt">Habla ahora…</string>
+    <string name="msg_sin_conexion">Sin conexión a internet. Revisa tu red e inténtalo de nuevo.</string>
+    <string name="msg_timeout">El servidor tardó demasiado en responder. Inténtalo de nuevo.</string>
+    <string name="msg_error_servidor">El servidor no pudo procesar la solicitud (código %1$d).</string>
+    <string name="msg_error_desconocido">Ocurrió un error inesperado.</string>
+    <string name="msg_guardado">Registro guardado</string>
+    <string name="msg_eliminado">Registro eliminado</string>
+    <string name="err_titulo_vacio">El título es obligatorio.</string>
+    <string name="err_titulo_largo">El título no puede superar %1$d caracteres.</string>
+    <string name="err_titulo_corto">El título debe tener al menos %1$d caracteres.</string>
+    <string name="err_desc_vacia">La descripción es obligatoria.</string>
+    <string name="err_desc_larga">La descripción no puede superar %1$d caracteres.</string>
+    <string name="err_foto_requerida">Toma una fotografía para el registro.</string>
+</resources>
